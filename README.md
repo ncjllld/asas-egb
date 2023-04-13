@@ -45,7 +45,7 @@ pip install --user matplotlib
 
 # Example
 
-To demonstrate the use of ASAS-EGB, an example is provided, it can be downloaded at: [asas-egb_example.zip](https://github.com/ncjllld/asas-egb/raw/master/asas-egb_example.zip).
+To demonstrate the use of ASAS-EGB, an example is provided, it can be downloaded at: [asas-egb_example.zip](https://github.com/ncjllld/asas-egb/blob/main/asas-egb_example.zip?raw=true).
 
 Unzip the file and enter the directory `asas-egb_example`.
 
